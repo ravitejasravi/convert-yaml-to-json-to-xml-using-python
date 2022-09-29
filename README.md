@@ -38,4 +38,4 @@ Then install pyyaml module to convert yaml to json.
               
 There you go,, you can run the flask app using below command.
 
-              flask --app hello --debug run
+              flask --app server --debug run
